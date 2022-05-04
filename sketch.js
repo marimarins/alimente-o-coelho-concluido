@@ -33,7 +33,7 @@ var corda2
 var corda3
 function preload(){
 
-  coelhofoto = loadImage("rabbit-01.png")
+  coelhofoto = loadImage("Rabbit-01.png")
   frutafoto = loadImage("melon.png")
   fundofoto = loadImage("background.png")
 piscando = loadAnimation("blink_1.png","blink_2.png","blink_3.png")
